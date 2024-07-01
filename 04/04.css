@@ -1,0 +1,7 @@
+section {width: 90%; margin: 15px; display: flex; flex-direction: column; align-items: center;}
+section .game-title {width: 100%; border: 1px solid lightgrey; padding: 15px; display: flex; justify-content: center; background-color: aliceblue; font-size: larger; font-weight: 700;}
+section .game-content {width: 100%; border: 1px solid lightgrey; margin: 10px 0px; padding: 15px; display: flex; flex-direction: vertical; justify-content: center;}
+section .game-content img {height: 100px; width: 100px; margin-bottom: 5px;}
+section .game-content .game-computer {margin-right: 25px;}
+section .game-content .game-user {margin-left: 25px; display: flex; flex-direction: column; align-items: center;}
+section .game-content button {height: 50%; width: 30%; margin-top: 5px; font-size: small; font-weight: 100;}
